@@ -1,0 +1,95 @@
+body{
+	background-image: url("images.png");
+	background-color: #cccccc;
+}
+
+.box{
+    max-width: 800px;
+    margin: 200px auto;
+}
+
+.login{
+    background: #00FFFF;
+    padding: 45px;
+	margin: 20px;
+}
+
+.hed{
+	color: #3ddde3;
+	margin: 25px;
+	height: 10px;
+}
+
+a{margin-top: -150px !important;}
+
+h1{
+	color: #3ddde3;
+    margin-top: 150px !important;
+    text-align: center;
+    text-transform: uppercase;  
+}
+
+#wrapper{
+	margin: 22px auto;
+	width: 1000px;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.container{
+	margin: 5px;
+}
+
+#search{
+	margin: 150px;
+}
+
+.header{
+	width: auto;
+    height: 100px;
+	background: #9A2224;
+	margin: 0 0 10px 0;
+	padding: 5px;
+	text-decoration: none;
+}
+
+
+#nav {
+	padding: 5px;
+	height: 40px;
+	background: #f0d681;
+	margin-bottom: 15px;
+	overflow: hidden;
+}
+#nav a:link,
+#nav a:visited {
+	color: #b8b3a3;
+	text-decoration: none;
+}
+#nav a:hover {
+	color: #c9c57d;
+	text-decoration: none;
+}
+.transition {
+	background-color: #87CEEB;
+    padding: 5px;
+    font-size: 15px; 
+}
+
+.zag{
+	color: #3ddde3;
+}
+
+.com {
+	padding: 15px;
+	background-color: #ADFF2F;
+	border-radius: 25px;
+	border: 1px solid #000;
+}
+
+#res{
+    padding: 20px;
+    margin-bottom: 3px;
+    border-radius: 25px;
+    border: 1px solid #000;
+}
